@@ -1,12 +1,20 @@
 <?php
 /**
- * Plugin Name: Tigon Watermark Plugin
- * Plugin URI:  https://devaxe.co/
- * Description: Add watermark functionality for products
+ * Plugin Name: WooCommerce-Product-Watermark-Plugin
+ * Plugin URI:  https://jaslowdigital.com
+ * Description: Add watermark functionality for products for TIGON Golf Carts.
  * Version:     2.0.2
- * Author:      Devaxe
- * Author URI:  https://devaxe.co/
+ * Author:      Jaslow Digital
+ * Author URI:  https://jaslowdigital.com
+ * Authors:     Noah Jaslow | Joe Shapiro
  * Text Domain: tigonwm-plugin-woocommerce 
+ * Copyright: 2025 Jaslow Digital
+ * Requires Plugins: WooCommerce,
+ */
+// Plugin by Jaslow Digital
+
+/*
+ * Callbacks
  */
 if (!defined('WPINC')) {
 	die();
