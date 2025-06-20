@@ -6,7 +6,7 @@
  * Version:     2.0.2
  * Author:      Jaslow Digital
  * Author URI:  https://jaslowdigital.com
- * Authors:     Noah Jaslow | Joe Shapiro
+ * Editors:     Noah Jaslow | Joe Shapiro
  * Text Domain: tigonwm-plugin-woocommerce 
  * Copyright: 2025 Jaslow Digital
  * Requires Plugins: WooCommerce,
